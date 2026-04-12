@@ -1,0 +1,12 @@
+{
+  "export_job_id": "62745ef6-668c-482a-be12-e0d73a90c115",
+  "id_short": 426814,
+  "published_at": "2026-04-12T07:53:21Z",
+  "repo_name": "restaurant-tiktok-renegades-in-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-426814",
+  "sample_asset_name": "beamstation_426814_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/426814/beamstation_426814_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "7f4f4bbfd369410c098035f5319be07c8f935900b395f4912d69e21ce4999ce4",
+  "sample_size_bytes": 150400,
+  "total_records": 331
+}
