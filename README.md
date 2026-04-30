@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Los Angeles-Long Beach-Anaheim Metro Area, CA, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `426814` |
 | Location | Los Angeles-Long Beach-Anaheim, CA |
 | Category | Restaurants |
-| Full dataset size | 286 records |
-| Free sample size | 28 records (9.79%) |
-| Last export | 2026-04-22T19:24:05.798446+00:00 |
+| Full dataset size | 274 records |
+| Free sample size | 27 records (9.85%) |
+| Last export | 2026-04-29T18:37:18.891148+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-los-angeles-long-beach-anaheim-metro-area-ca-us-sample-426814/releases/download/sample-latest/beamstation_426814_restaurants-us-losangeleslongbeachanaheimca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
